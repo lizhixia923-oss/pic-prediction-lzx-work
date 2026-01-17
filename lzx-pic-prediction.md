@@ -24,7 +24,7 @@ techstack:
 ## 分析结果
 
 ![ROC曲线](/images/portfolio/lzx-pic-prediction/ROC-curve.png)
-*图1 模型ROC曲线（AUC = 0.92）*
+*图1 模型ROC曲线*
 
 ![混淆矩阵](/images/portfolio/lzx-pic-prediction/Confusion-Matrix.png)
 *图2 测试集混淆矩阵*
